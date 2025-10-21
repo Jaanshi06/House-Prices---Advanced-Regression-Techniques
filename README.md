@@ -23,10 +23,15 @@ Garage, basement, and more!
 
 # ⚙️ Tech Stack
 Category	Tools / Libraries
+
 Language :	Python 🐍
+
 Data Handling	: Pandas, NumPy
+
 Modeling: Scikit-learn, LightGBM
+
 Hyperparameter Tuning	: Optuna 🎯
+
 Environment	: Kaggle Notebook 💻
 
 # 🧹 Data Preprocessing
